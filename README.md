@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @danielrezende3
-- 👀 I’m interested in competitive programming, computer graphics, operating systems and compilers
-- 🌱 I’m currently learning c, c++, rust
-- 💞️ I’m looking to collaborate on open source projects
-- 📫 How to reach me ... You don't
+- 👀 I’m interested in machine learning
 
 <!---
 danielrezende3/danielrezende3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
